@@ -6,7 +6,6 @@ from selenium.webdriver.support.expected_conditions import presence_of_element_l
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 import time
-import requests
 import json
 import os
 
